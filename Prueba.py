@@ -17,16 +17,17 @@ def pregunta_01():
     """
 
     # Cargue el dataset digits
-    digits = datasets.load_digits()
+    digits = dataset.load_digits()
 
     # Imprima los nombres de la variable target del dataset
-    print(digits.target)
+    print(____.____)
 
     # Imprima las dimensinoes de matriz de datos
-    print(digits.target.shape)
+    print(____.____.____)
 
     # Imprima las dimensiones del vector de salida
-    print(digits.target_names.shape)
+    print(____.____.____)
+
 
 def pregunta_02():
     """
